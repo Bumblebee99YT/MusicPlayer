@@ -3,6 +3,7 @@
 
 # Prerequisites
 You will need the following:
+ - Python3 `preferably 3.8.5+`
  - pygame
  - turtle
 
